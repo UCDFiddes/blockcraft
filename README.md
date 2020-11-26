@@ -1,4 +1,8 @@
-# blockcraft
-A discord.js bot which puts a bridge between Discord and Among Us
+---
+description: Please read this if you have any problems...
+---
 
-Made by UCDFiddes
+# Welcome to Blockcraft
+
+Read through the commands to find help...
+
