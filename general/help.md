@@ -32,7 +32,7 @@ This is any command that the bot has...
 
 ![](../.gitbook/assets/help-ping.png)
 
-## Parameters \#2
+## Format \#2
 
 {% hint style="info" %}
 -help
