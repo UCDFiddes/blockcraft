@@ -6,6 +6,4 @@
 
 * [-args](general/args.md)
 * [-help](general/help.md)
-* [-say](general/say.md)
-* [-ping](general/ping.md)
 

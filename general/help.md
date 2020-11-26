@@ -1,50 +1,48 @@
 ---
-description: View all commands and how to use them...
+description: This page explains Blockcraft's arguments command in detail...
 ---
 
 # -help
 
-**With Arguments**:
+The help command gives a great amount of help when using the command...
 
-```text
--help <command>
-```
+## Permissions
 
-The help command gives more detail in commands...
+Members that are able to use the args command are:
 
-> say \| Help
->
-> **Name:** say 
->
-> **Description:** Makes the bot say exactly what you say... 
->
-> **Usage:** -say &lt;outcome&gt; 
->
-> **Aliases:** undefined 
->
-> **Permissions:** 
->
-> `ownerOnly?:` false 
->
-> `userPemissions:` MANAGE\_MESSAGES 
->
-> `botPermissions:` 
->
-> **Limits:** 
->
-> `rateLimit:` 2 
->
-> `cooldown:` 0
+* Anyone
 
-**Without Arguments**:
+The permissions that the bot needs are...
 
-```text
+* Send Messages
+* Embed Links
+* Use External Emojis
+
+## Format
+
+{% hint style="info" %}
+-help &lt;COMMAND&gt;
+{% endhint %}
+
+### &lt;COMMAND&gt;
+
+This is any command that the bot has...
+
+### Example
+
+![](../.gitbook/assets/help-ping.png)
+
+## Parameters \#2
+
+{% hint style="info" %}
 -help
-```
+{% endhint %}
 
-The help command returns all commands...
+This returns a list of all the commands...
 
-> Help \| BlockCraft 
->
-> admin, args, blacklist, eval, game, help, leaderboard, move, ping, rank, say, search, setprefix, snipe, test
+### Example
+
+![](../.gitbook/assets/help.png)
+
+
 
